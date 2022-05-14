@@ -1,7 +1,11 @@
 # 100Days_Python_Programming
 
-### Day-1
+-----------------------------------------------------------------------------------------------------------
 
-### Day-2
+## 100 days Final Project 👇
 
-### Day-3
+### Day-1  - Band Name Generator
+
+### Day-2  - Tip Calculator
+
+### Day-3  - Treasure Game
